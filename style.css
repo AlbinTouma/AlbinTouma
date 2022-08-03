@@ -1,69 +1,74 @@
-
-.menue {
-    background-color: white;
-    max-width: 1920px;
-    min-width: 360px;
-}
-
-#header-options {
-   
-    display: inline-block;
-    font-size: larger;
-    color: black;
-    border: 10px;
-    border-radius: 10%;
-    padding: 30px;
-    margin : 5px;    
-    font-size: large;
-    margin-left: 2%;
+.menue{margin-bottom: 10%;
+    margin-top: 2%;
+border-color: transparent;
+padding-bottom: 20px;
+padding-top: 20px;
+width: 100%;
+margin-left: ;}
 
 
-}
-
-
-
-
-.container {
-position: relative;
-max-width: 1920px;
-min-width: 360px;
-   block-size: none;
-   padding: 5%;
-   background-color:#c4d6e2;
-   
-   
- 
-      }
-
-.welcome{
-    position: inherit;
+nav {
     display: flex;
+    gap: 0.2rem;
+    border-radius: 50%;
+  
+}
+
+a {
+    flex: 1;
+    color: #222;
+    font-size: 12px;
+    font-weight: 300;
+    padding: 0.5rem;
+    text-align: center;
+    text-decoration: none;
+    transition: all 0.5s ease-out;
+  }
+
+
+
+a:hover,
+a:focus {
+  background-color: #555;
+  color: white;
+}
+
+.container{
+    position: relative;
+    width: 100%; 
+    height:  100%;
+    background-color:   #f9f9ff;
+    padding: 2%;
+    padding-left: 200px;}
+   
+
+.welcome {
+ 
+   position: inherit;
+   display: flex;
    flex-direction: row;
    align-items: center;
-   justify-content: space-between;
-  
+   margin: 1px;
+   max-width: 1920px;
+   max-height: 1080px;
+   
+ 
     
 }
 
-.welcome_content{   
-    position: inherit;
-    margin-left: 5%;
 
-   flex-wrap: nowrap;
+.welcome_content {   
+    position: inherit;
+    flex-wrap: nowrap;
     display: flex;
     flex: auto;
     flex-direction: column;
     align-items: center;
-    justify-content: space-between;
-   
-}
-
-
-   
-   .profile{ position: inherit;
-   
+    margin-left: 50px;
+    max-width: 900px;
+    max-height: 1080px;
     
-}
+   }
 
 
 
@@ -71,9 +76,7 @@ min-width: 360px;
 p {
     font-family: Arial;
     font-size: medium;
-    font-weight: 100;
-    display: inline-block;
-    max-width: 75%;
+    max-width: 1080px;
     margin-left: 15%;
     margin-top: 5%;
  
