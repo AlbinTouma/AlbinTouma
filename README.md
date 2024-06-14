@@ -1,6 +1,6 @@
 <img src=”https://media.licdn.com/dms/image/D4D16AQFfrC0U9tiD1A/profile-displaybackgroundimage-shrink_350_1400/0/1707139518158?e=1723680000&v=beta&t=qanmmvltojAxPI14Xp-dbtlOG9luDDS8CftuP4GMDdM" alt=”my banner”>
 
-[!banner](https://media.licdn.com/dms/image/D4D16AQFfrC0U9tiD1A/profile-displaybackgroundimage-shrink_350_1400/0/1707139518158?e=1723680000&v=beta&t=qanmmvltojAxPI14Xp-dbtlOG9luDDS8CftuP4GMDdM)
+![banner](https://media.licdn.com/dms/image/D4D16AQFfrC0U9tiD1A/profile-displaybackgroundimage-shrink_350_1400/0/1707139518158?e=1723680000&v=beta&t=qanmmvltojAxPI14Xp-dbtlOG9luDDS8CftuP4GMDdM)
 
 
 
