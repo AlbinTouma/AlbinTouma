@@ -1,10 +1,14 @@
-<img src=”https://media.licdn.com/dms/image/D4D16AQFfrC0U9tiD1A/profile-displaybackgroundimage-shrink_350_1400/0/1707139518158?e=1723680000&v=beta&t=qanmmvltojAxPI14Xp-dbtlOG9luDDS8CftuP4GMDdM" alt=”my banner”>
-
 ![banner](https://media.licdn.com/dms/image/D4D16AQFfrC0U9tiD1A/profile-displaybackgroundimage-shrink_350_1400/0/1707139518158?e=1723680000&v=beta&t=qanmmvltojAxPI14Xp-dbtlOG9luDDS8CftuP4GMDdM)
 
+## Hi there, I'm Albin Touma 👋
+
+I work as a researcher, data analyst and developer in the space of OSINT and anti-money laundering solutions. My interest is in illicit finance and its relationship to transnational crime and war. 
+
+- [Groupint](https://github.com/OSINT-for-Ukraine/groupint) is an OSINT tool that I helped develop as part of OSINT for Ukraine's R&D team. This tool helps OSINT investigators identify threat actors and networks on Telegram
+- [Know Your Sanctions](https://knowyoursanctions.com) is a simple open-source sanctions screening platform that I launched.
+- [Illicit Finance](https://illicitfinance.eu) is where I publish research and the latest on transnational crime, corruption, and anything related to illicit finance. 
 
 
-## Hi there 👋
 
 <!--
 **AlbinTouma/AlbinTouma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
