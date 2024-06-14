@@ -2,9 +2,9 @@
 
 # Hi there, I'm Albin Touma 👋
 
-I'm a researcher and data analyst in the space of OSINT and anti-money laundering solutions. 
+I'm a data analyst and researcher on the Financial Crimes team with a background in OSINT and anti-money laundering solutions. 
 
-## I’m currently working on ...
+## Projects I'm contributing to ...
 
 - [Groupint](https://github.com/OSINT-for-Ukraine/groupint) is an OSINT tool that I helped develop as part of OSINT for Ukraine's R&D team. This tool helps OSINT investigators identify threat actors and networks on Telegram
 - [Know Your Sanctions](https://knowyoursanctions.com) is a simple open-source sanctions screening platform that I launched.
