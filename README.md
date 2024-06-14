@@ -2,13 +2,23 @@
 
 ## Hi there, I'm Albin Touma 👋
 
-I work as a researcher, data analyst and developer in the space of OSINT and anti-money laundering solutions. My interest is in illicit finance and its relationship to transnational crime and war. 
+I work as a researcher, data analyst and developer in the space of OSINT and anti-money laundering solutions.
+
+🔭 I’m currently working on ...
 
 - [Groupint](https://github.com/OSINT-for-Ukraine/groupint) is an OSINT tool that I helped develop as part of OSINT for Ukraine's R&D team. This tool helps OSINT investigators identify threat actors and networks on Telegram
 - [Know Your Sanctions](https://knowyoursanctions.com) is a simple open-source sanctions screening platform that I launched.
 - [Illicit Finance](https://illicitfinance.eu) is where I publish research and the latest on transnational crime, corruption, and anything related to illicit finance. 
 
+👯 I’m looking to collaborate on ...
 
+ Ilicit finance and its relationship to transnational crime and war is my big research interest, and I'm happy to collaborate on tools or investigations. 
+
+📫 How to reach me: ...
+
+If you have any questions pertaining to my work or seek to strike up a partnership, feel free to reach out to me on albin.touma@gmail.com
+
+ 
 
 <!--
 **AlbinTouma/AlbinTouma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
