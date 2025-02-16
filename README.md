@@ -1,5 +1,3 @@
-![banner](https://media.licdn.com/dms/image/D4D16AQFfrC0U9tiD1A/profile-displaybackgroundimage-shrink_350_1400/0/1707139518158?e=1723680000&v=beta&t=qanmmvltojAxPI14Xp-dbtlOG9luDDS8CftuP4GMDdM)
-
 # Hi there, I'm Albin Touma 👋
 
 I'm a research analyst with a background in OSINT and financial crime fighting. 
