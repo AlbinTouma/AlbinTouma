@@ -6,7 +6,7 @@ I'm a research analyst with a background in OSINT and financial crime fighting.
 
 - [Groupint](https://github.com/OSINT-for-Ukraine/groupint) is an OSINT tool that I helped develop as part of OSINT for Ukraine's R&D team. This tool helps OSINT investigators identify threat actors and networks on Telegram
 - [Know Your Sanctions](https://knowyoursanctions.pages.dev) is a simple open-source sanctions screening platform that I launched.
-- [Signal-Sifter](https://github.com/AlbinTouma/Signal-Sifter) This project uses data from Flashback Forum to map crimes and their locations in Sweden by analyzing user-generated posts and discussions as an unfiltered alternative to traditional sources.
+- [Crime-Sifter](https://github.com/AlbinTouma/Signal-Sifter) This project uses data from Flashback Forum to map crimes and their locations in Sweden by analyzing user-generated posts and discussions as an unfiltered alternative to traditional sources.
 
 ## I’m looking to collaborate on ...
 
