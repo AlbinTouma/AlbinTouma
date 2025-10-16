@@ -2,33 +2,26 @@
 
 I'm a research analyst with a background in OSINT and financial crime fighting. 
 
-## Projects I'm contributing to ...
+<table><tr><td valign="top" width="33%">
 
-- [Groupint](https://github.com/OSINT-for-Ukraine/groupint) is an OSINT tool that I helped develop as part of OSINT for Ukraine's R&D team. This tool helps OSINT investigators identify threat actors and networks on Telegram
-- [Know Your Sanctions](https://knowyoursanctions.pages.dev) is a simple open-source sanctions screening platform that I launched.
-- [Crime-Sifter](https://github.com/AlbinTouma/Signal-Sifter) This project uses data from Flashback Forum to map crimes and their locations in Sweden by analyzing user-generated posts and discussions as an unfiltered alternative to traditional sources.
+### Recent releases
+<!-- recent_releases starts -->
+[Groupint](https://github.com/OSINT-for-Ukraine/groupint)
 
-## I’m looking to collaborate on ...
+[Crime-Sifter](https://github.com/AlbinTouma/Signal-Sifter)
 
- Ilicit finance and its relationship to transnational crime and war is my big research interest, and I'm happy to collaborate on tools or investigations. 
+More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
+</td><td valign="top" width="34%">
+
+### On my blog
+
+[What car can you buy if you work for the GRU?](https://albintouma.com/posts/employees-of-the-GRU)
+[Building Groupint to sniff Telegram](https://albintouma.com/posts/GroupInt)
+[Identifying crime related data from anonymous social media with AI](https://albintouma.com/posts/Exploring%20Crime%20Discussions%20on%20Swedish%20Forums%20Using%20LLMs)
+
+</td></tr></table>
+
 
 📫 How to reach me: ...
 
 For more information about my work please visit https://albintouma.com
-
-If you have any questions pertaining to my work or seek to strike up a partnership, feel free to reach out to me on albin.touma@gmail.com
-
-<!--
-**AlbinTouma/AlbinTouma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
