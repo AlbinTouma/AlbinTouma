@@ -26,6 +26,7 @@ I'm a research analyst with a background in OSINT and financial crime fighting.
 ### On my blog
 
 [What car can you buy if you work for the GRU?](https://albintouma.com/posts/employees-of-the-GRU)
+
 [Building Groupint to sniff Telegram](https://albintouma.com/posts/GroupInt)
 [Identifying crime related data from anonymous social media with AI](https://albintouma.com/posts/Exploring%20Crime%20Discussions%20on%20Swedish%20Forums%20Using%20LLMs)
 
