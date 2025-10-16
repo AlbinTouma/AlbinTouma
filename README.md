@@ -8,7 +8,7 @@ I'm a research analyst with a background in OSINT and financial crime fighting.
 <!-- recent_releases starts -->
 [KYBO](https://github.com/AlbinTouma/CompaniesHouse)
 
-[Monitoring the Gaza conflict with NLP](https://github.com/AlbinTouma/israel)
+[Monitoring the War in Gaza with NLP](https://github.com/AlbinTouma/israel)
 
 [Quality Assurance of Politically Exposed People](https://github.com/AlbinTouma/PEP-Data-Quality-Assurance)
 
