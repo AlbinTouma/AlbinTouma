@@ -6,11 +6,21 @@ I'm a research analyst with a background in OSINT and financial crime fighting.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[KYBO](https://github.com/AlbinTouma/CompaniesHouse)
+
+[Monitoring the Gaza conflict with NLP](https://github.com/AlbinTouma/israel)
+
+[Quality Assurance of Politically Exposed People](https://github.com/AlbinTouma/PEP-Data-Quality-Assurance)
+
 [Groupint](https://github.com/OSINT-for-Ukraine/groupint)
 
 [Crime-Sifter](https://github.com/AlbinTouma/Signal-Sifter)
 
-More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
+[NWS alerts tracker](https://github.com/AlbinTouma/NWS-alerts-daily-tracker)
+
+[GRU Spy-Cars Dataset](https://github.com/AlbinTouma/GRU-Spy-Cars-Dataset)
+
+
 </td><td valign="top" width="34%">
 
 ### On my blog
