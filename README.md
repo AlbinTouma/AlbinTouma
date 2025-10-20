@@ -20,6 +20,8 @@ I'm a research analyst with a background in OSINT and financial crime fighting.
 
 [GRU Spy-Cars Dataset](https://github.com/AlbinTouma/GRU-Spy-Cars-Dataset)
 
+[Dublin rent tracker](https://github.com/AlbinTouma/Dublin-Rent-Tracker)
+
 
 </td><td valign="top" width="34%">
 
