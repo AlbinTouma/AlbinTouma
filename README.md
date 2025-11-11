@@ -22,6 +22,8 @@ I'm a research analyst with a background in OSINT and financial crime fighting.
 
 [Dublin rent tracker](https://github.com/AlbinTouma/Dublin-Rent-Tracker)
 
+[Subreddits market intelligence ](https://github.com/AlbinTouma/reddit)
+
 
 </td><td valign="top" width="34%">
 
