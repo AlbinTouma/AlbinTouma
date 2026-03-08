@@ -6,7 +6,7 @@ I'm a research analyst with a background in OSINT and financial crime fighting.
 
 ### Recent releases
 <!-- recent_releases starts -->
-[KYBO](https://github.com/AlbinTouma/CompaniesHouse)
+[Know Your Business Owners API](https://github.com/AlbinTouma/CompaniesHouse)
 
 [Monitoring the War in Gaza with NLP](https://github.com/AlbinTouma/israel)
 
