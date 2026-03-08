@@ -1,6 +1,6 @@
 # Hi there, I'm Albin Touma 👋
 
-I'm a research analyst with a background in OSINT and financial crime fighting. 
+I'm a research analyst with a background in OSINT and fintech. 
 
 <table><tr><td valign="top" width="33%">
 
