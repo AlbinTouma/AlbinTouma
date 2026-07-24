@@ -31,6 +31,9 @@ I'm a research analyst with a background in OSINT and fintech.
 
 ### On my blog
 
+[Media monitoring the Iran War](https://albintouma.com/posts/media-monitoring-iran-war)
+
+
 [What car can you buy if you work for the GRU?](https://albintouma.com/posts/employees-of-the-GRU)
 
 [Building Groupint to sniff Telegram](https://albintouma.com/posts/GroupInt)
