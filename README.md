@@ -6,6 +6,8 @@ I'm a research analyst with a background in OSINT and fintech.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[Iran War Media Monitor](https://github.com/AlbinTouma/Iran-War-Media)
+
 [Know Your Business Owners API](https://github.com/AlbinTouma/CompaniesHouse)
 
 [Monitoring the War in Gaza with NLP](https://github.com/AlbinTouma/israel)
