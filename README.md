@@ -45,3 +45,9 @@ I'm a research analyst with a background in OSINT and fintech.
 📫 How to reach me: ...
 
 For more information about my work please visit https://albintouma.com
+
+[![Subscribe to newsletter](https://img.shields.io/badge/📧_Join_Now,_Subscribe_Today-blue?)](https://albin-touma.kit.com)
+
+
+
+
