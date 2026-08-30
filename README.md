@@ -6,6 +6,8 @@ I'm a research analyst with a background in OSINT and fintech.
 
 ### Recent releases
 <!-- recent_releases starts -->
+[Directory of Data Brokers](https://github.com/AlbinTouma/Directory-of-Data-Brokers)
+
 [Iran War Media Monitor](https://github.com/AlbinTouma/Iran-War-Media)
 
 [Know Your Business Owners API](https://github.com/AlbinTouma/CompaniesHouse)
